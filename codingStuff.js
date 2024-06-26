@@ -1,4 +1,3 @@
-<script>
 let num = 0;
 let question = document.getElementById("questions");
 let img = document.getElementById("image");
@@ -167,4 +166,3 @@ answers[i].addEventListener("click", function() {
   }
 });
 }
-</script>
